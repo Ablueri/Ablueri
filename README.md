@@ -14,7 +14,7 @@
 
 ## ⚡ Extra
 - 🐦 I love birds, for real.
-- 📀 Someday, I would like to become a DJ, produce music or just learn to play the piano.
+- 📀 I would like to learn to play the piano.
 
 ## Codewars - other badges / profiles
 [![](https://www.codewars.com/users/adrigarcia75/badges/large)](https://www.codewars.com/users/adrigarcia75)
