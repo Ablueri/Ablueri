@@ -6,9 +6,10 @@
 - **Languages:** I can speak Spanish, Catalan and English.
 
 ## 🔎 About me
-I'm a web development student and I'm interested in building good and reliable apps.
+I'm a web development student focused on creating reliable, useful and efficient apps.
+
 - 🔭 I'm currently studying Web Applications Development (CFGS DAW) at CIFP Francesc de Borja Moll.
-- 🌱 I'm mainly interested in IT Engineering and currently learning full-stack development.
+- 🌱 I'm mainly interested in IT Engineering and I'm currently learning full-stack development.
 
 ## 🚀 Tech Stack  
 
