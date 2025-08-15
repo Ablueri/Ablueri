@@ -10,7 +10,7 @@ I'm a junior webdev and I'm currently studying (to be started atm of writing thi
 
 - 📚 I studied a web developing "technical course" (DAW, Desarrollo de Aplicaciones Web).
 - 🔭 In the near future I'm interested in pursuing backend, AI and ML related stuff, about AI/ML I'm still not really sure but it looks cool. 
-- 🌱 Currently, I'm looking to learn general engineer knowledge, so I'm open to learn anything related to it.
+- 🌱 Currently, I'm looking to learn eveything I will be learning in my degree so I'm open to anything related to it.
 
 ## 🚀 Tech Stack  
 
