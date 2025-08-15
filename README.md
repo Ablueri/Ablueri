@@ -6,10 +6,11 @@
 - **Languages:** I can speak Spanish, Catalan and English.
 
 ## 🔎 About me
-I'm a web development student focused on creating reliable, useful and efficient apps.
+I'm a junior webdev and I'm currently studying (to be started atm of writing this) an IT Engineering degree at UIB (Universitat de les Illes Balears).
 
-- 🔭 I'm currently studying Web Applications Development (CFGS DAW) at CIFP Francesc de Borja Moll.
-- 🌱 I'm mainly interested in IT Engineering and I'm currently learning full-stack development.
+- 📚 I studied a web developing "technical course" (DAW, Desarrollo de Aplicaciones Web).
+- 🔭 In the near future I'm interested in pursuing backend, AI and ML related stuff, about AI/ML I'm still not really sure but it looks cool. 
+- 🌱 Currently, I'm looking to learn general engineer knowledge, so I'm open to learn anything related to it.
 
 ## 🚀 Tech Stack  
 
