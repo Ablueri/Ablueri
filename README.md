@@ -14,10 +14,10 @@ I'm a junior webdev and I'm currently studying (to be started atm of writing thi
 
 ## 🚀 Tech Stack  
 
-### 🖥️ Frontend  
+### 🖥️ Programming languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Backend  
+### ⚙️ Real programming languages   
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🗄️ Database & Data Management  
