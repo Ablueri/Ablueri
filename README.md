@@ -6,7 +6,7 @@
 - **Languages:** I can speak Spanish, Catalan and English.
 
 ## 🔎 About me
-I'm a junior webdev and I'm currently studying (to be started atm of writing this) an IT Engineering degree at UIB (Universitat de les Illes Balears).
+I'm a junior webdev and I currently started studying an IT Engineering degree at the UIB (Universitat de les Illes Balears).
 
 - 📚 I studied a web developing "technical course" (DAW, Desarrollo de Aplicaciones Web).
 - 🔭 In the near future I'm interested in pursuing backend, AI and ML related stuff, about AI/ML I'm still not really sure but it looks cool. 
